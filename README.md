@@ -1,5 +1,5 @@
 # videochat_app
-video chat app url("video-call-san.netlify.app")
+video chat app url("https://video-call-san.netlify.app")
 
 
 /*
